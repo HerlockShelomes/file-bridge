@@ -1,0 +1,11 @@
+# 文件互传仓库：默认禁止一切换行/编码转换，按字节原样存取。
+* -text
+
+# 脚本与文档强制 LF，保证在 Linux 端可直接执行。
+*.sh  text eol=lf
+*.py  text eol=lf
+*.md  text eol=lf
+*.txt text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+*.json text eol=lf

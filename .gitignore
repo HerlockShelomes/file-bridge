@@ -1,0 +1,12 @@
+# 系统垃圾
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*.tmp
+*~
+
+# 传输过程的临时文件
+*.part
+*.crdownload
+.tmp/

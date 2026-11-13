@@ -1,0 +1,17 @@
+# 系统垃圾
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*.tmp
+*~
+
+# 传输过程的临时文件
+*.part
+*.crdownload
+.tmp/
+.fetch_err
+.push_err
+
+# bigfile.sh get 的默认落地区
+downloads/
